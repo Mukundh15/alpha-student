@@ -1,2 +1,2 @@
 # alpha-student
-this is practice for my git and github
+this is practice for my git and github.
